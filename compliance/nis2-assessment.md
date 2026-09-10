@@ -249,6 +249,117 @@ Basic computer hygiene practices and cybersecurity training.
 
 ### Expected Evidence
 
+---
+
+## Article 21(2)(h) — Cryptography and Encryption
+
+### Assessment
+
+The organization uses HTTPS/TLS for its public web application and some sensitive data is encrypted at rest.
+
+However:
+
+- No formal cryptography and encryption policy exists.
+- No formal key management procedure is defined.
+- No clear criteria exist to determine which data must be encrypted.
+- Sensitive documents may be exchanged without defined encryption requirements.
+
+**Status:** Non-Compliant
+
+### Identified Gaps
+
+1. No formal cryptography and encryption policy.
+2. No documented key management procedure.
+3. No defined criteria for determining which data must be encrypted.
+
+### Recommended Actions
+
+1. Create and formally approve a Cryptography and Encryption Policy.
+2. Define a key management procedure covering the lifecycle of cryptographic keys.
+3. Define encryption requirements based on data sensitivity and risk.
+
+### Evidence
+
+- Cryptography and Encryption Policy
+- Key Management Procedure
+- Encryption configuration documentation
+
+---
+
+## Article 21(2)(i) — Access Control and Asset Management
+
+### Assessment
+
+The organization assigns individual accounts to employees and access rights are generally based on job roles.
+
+A password policy is in place.
+
+However:
+
+- Privileged access is not reviewed periodically through a formal process.
+- Role changes are handled manually without a documented procedure.
+- No formal control exists to verify timely deactivation of former employee accounts.
+- Some employees have broader administrative privileges than necessary.
+
+**Status:** Partially Compliant
+
+### Identified Gaps
+
+1. No formal periodic review of access rights and privileges.
+2. No documented process for managing access changes when employees change roles.
+3. No formal control ensuring timely deactivation of former employee accounts.
+4. Some privileged accounts may have excessive permissions.
+
+### Recommended Actions
+
+1. Establish periodic access and privilege reviews.
+2. Implement a documented joiner, mover and leaver process.
+3. Ensure timely deactivation of accounts when employment ends.
+4. Apply the principle of least privilege to administrative accounts.
+
+### Evidence
+
+- User account register
+- Access review reports
+- Offboarding records
+- Privileged account register
+
+---
+
+## Article 21(2)(j) — Multi-Factor Authentication
+
+### Assessment
+
+Multi-factor authentication is available within the organization and is already used by IT administrators.
+
+However:
+
+- MFA is not mandatory for all user accounts.
+- Some employees can still access corporate services using only username and password.
+- No formal process exists to periodically verify MFA activation.
+- Additional controls for highly privileged accounts are not formally defined.
+
+**Status:** Partially Compliant
+
+### Identified Gaps
+
+1. MFA is not mandatory for all accounts.
+2. No formal process exists to verify MFA configuration periodically.
+3. No additional authentication requirements are defined for highly privileged accounts.
+
+### Recommended Actions
+
+1. Enforce MFA for all corporate accounts.
+2. Establish periodic verification of MFA configuration.
+3. Introduce stronger controls for privileged accounts.
+4. Use Conditional Access rules where appropriate.
+
+### Evidence
+
+- MFA configuration reports
+- Conditional Access / MFA policy
+- Access review records
+- Privileged account register
 - Training attendance and completion records.
 - Cybersecurity awareness training materials.
 - Phishing simulation reports.
