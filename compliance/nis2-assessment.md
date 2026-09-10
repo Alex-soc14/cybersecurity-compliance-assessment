@@ -247,7 +247,13 @@ Basic computer hygiene practices and cybersecurity training.
 - Maintain training attendance and completion records.
 - Track and review phishing simulation results.
 
+
 ### Expected Evidence
+
+- Training attendance and completion records.
+- Cybersecurity awareness training materials.
+- Phishing simulation reports.
+- Records of role-specific cybersecurity training.
 
 ---
 
