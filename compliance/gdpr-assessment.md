@@ -68,3 +68,38 @@ No formal periodic review process has been established to ensure that the ROPA r
 - Privacy documentation related to processing activities
 
 ---
+
+## Article 32 — Security of Processing
+
+### Assessment
+
+The organization has implemented several security measures, including MFA for administrators, HTTPS/TLS and backup mechanisms.
+
+However, there is no formal process to periodically assess the effectiveness of these measures in relation to the risks associated with the processing of personal data.
+
+Security controls are not documented consistently, and no clear criteria have been defined to determine which security measures are appropriate based on the level of risk.
+
+**Status:** Partially Compliant
+
+### Identified Gaps
+
+1. No formal procedure exists for periodically assessing the effectiveness of security measures.
+2. Security controls are not documented consistently.
+3. No clear risk-based criteria exist for determining the security measures required for different processing activities.
+
+### Recommended Actions
+
+1. Establish a formal procedure for periodically assessing the effectiveness of security measures.
+2. Document security controls consistently across relevant systems and processing activities.
+3. Define risk-based criteria for determining the security measures required to protect personal data.
+4. Document the results of periodic security assessments and implement corrective actions where necessary.
+
+### Evidence
+
+- Security assessment procedure
+- Security controls register
+- Risk assessments related to personal data processing
+- Records of periodic control effectiveness reviews
+- Corrective action records
+
+---
