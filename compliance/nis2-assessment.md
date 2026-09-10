@@ -48,3 +48,43 @@ profile.
 - Define roles and responsibilities for information security.
 - Establish a defined periodic risk review process.
 - Document and retain evidence of risk reviews and management approval.
+
+  ---
+
+## NIS2 Article 21(2)(b)
+
+### Requirement
+
+Incident handling.
+
+### Assessment
+
+**Status:** Non-Compliant
+
+### Evidence
+
+- Security incidents can be reported to the IT department.
+- No formal Incident Response Procedure exists.
+- Incident response roles and responsibilities are not formally defined.
+- No formal post-incident review process is documented.
+
+### Identified Gaps
+
+1. No formal Incident Response Procedure.
+2. Incident response roles and responsibilities are not defined.
+3. No documented post-incident review and lessons-learned process.
+
+### Risk
+
+The lack of a structured incident response process may lead to
+delayed or inconsistent responses to cybersecurity incidents,
+increasing their potential operational and security impact.
+
+### Recommended Actions
+
+- Develop and formally approve an Incident Response Procedure.
+- Define incident response roles and responsibilities.
+- Establish incident classification and escalation criteria.
+- Define a process for documenting incidents and conducting
+  post-incident reviews.
+- Periodically test the incident response process.
