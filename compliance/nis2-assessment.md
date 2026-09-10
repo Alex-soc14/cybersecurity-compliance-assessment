@@ -163,3 +163,52 @@ relationships with suppliers and service providers.
 - Classify suppliers according to their security and business criticality.
 - Include appropriate security requirements in supplier contracts.
 - Perform periodic security reviews of critical suppliers.
+
+---
+
+## NIS2 Article 21(2)(e)
+
+### Requirement
+
+Security in network and information systems acquisition, development
+and maintenance, including vulnerability handling and disclosure.
+
+### Assessment
+
+**Status:** Non-Compliant
+
+### Evidence
+
+- Security updates are normally installed.
+- Developers perform security testing before some releases.
+- No formal vulnerability management process exists.
+- No centralized vulnerability register exists.
+- No remediation deadlines are defined according to vulnerability severity.
+- No formal process exists for handling critical vulnerabilities.
+- Web application security testing is performed only occasionally.
+
+### Identified Gaps
+
+1. No formal vulnerability management procedure.
+2. No centralized vulnerability register.
+3. No remediation timeframes based on vulnerability severity.
+4. No formal escalation process for critical vulnerabilities.
+5. Security testing of the web application is not performed regularly.
+
+### Recommended Actions
+
+- Develop and formally approve a Vulnerability Management Procedure.
+- Establish a centralized vulnerability register.
+- Define vulnerability severity levels and remediation timeframes.
+- Establish an escalation process for critical vulnerabilities.
+- Perform periodic vulnerability scanning and security testing.
+- Track remediation activities through documented tickets or records.
+
+### Expected Evidence
+
+- Vulnerability scanning reports.
+- Vulnerability register.
+- Remediation tickets.
+- Penetration testing reports.
+- Evidence of vulnerability remediation.
+- Records of critical vulnerability escalation.
