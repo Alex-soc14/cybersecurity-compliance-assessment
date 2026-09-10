@@ -126,3 +126,40 @@ and crisis management.
 - Document the results of restoration tests.
 - Establish a formal crisis management process.
 - Periodically review and update business continuity procedures.
+
+---
+
+## NIS2 Article 21(2)(d)
+
+### Requirement
+
+Supply chain security, including security-related aspects concerning
+relationships with suppliers and service providers.
+
+### Assessment
+
+**Status:** Non-Compliant
+
+### Evidence
+
+- The company uses several external technology and service providers.
+- Supplier selection is primarily based on cost and service characteristics.
+- No standardized supplier security questionnaire exists.
+- No formal cybersecurity risk assessment is performed before engaging suppliers.
+- Suppliers are not periodically reviewed from a cybersecurity perspective.
+- No formal supplier criticality classification exists.
+
+### Identified Gaps
+
+1. No standardized supplier security questionnaire.
+2. No formal supplier cybersecurity risk assessment before engagement.
+3. No supplier criticality classification.
+4. No periodic supplier security review process.
+
+### Recommended Actions
+
+- Develop a standardized supplier security questionnaire.
+- Perform a cybersecurity risk assessment before engaging critical suppliers.
+- Classify suppliers according to their security and business criticality.
+- Include appropriate security requirements in supplier contracts.
+- Perform periodic security reviews of critical suppliers.
