@@ -88,3 +88,41 @@ increasing their potential operational and security impact.
 - Define a process for documenting incidents and conducting
   post-incident reviews.
 - Periodically test the incident response process.
+
+---
+
+## NIS2 Article 21(2)(c)
+
+### Requirement
+
+Business continuity, including backup management, disaster recovery
+and crisis management.
+
+### Assessment
+
+**Status:** Non-Compliant
+
+### Evidence
+
+- Customer data is backed up.
+- Backups are stored separately from the primary systems.
+- No formal Disaster Recovery Procedure exists.
+- RTO and RPO have not been formally defined.
+- Backup restoration is not tested periodically.
+- No formal crisis management procedure exists.
+
+### Identified Gaps
+
+1. No formal Disaster Recovery Procedure.
+2. RTO and RPO are not defined.
+3. Backup restoration tests are not performed periodically.
+4. No formal crisis management process exists.
+
+### Recommended Actions
+
+- Develop and formally approve a Disaster Recovery Procedure.
+- Define RTO and RPO according to business requirements.
+- Perform periodic backup restoration tests.
+- Document the results of restoration tests.
+- Establish a formal crisis management process.
+- Periodically review and update business continuity procedures.
