@@ -103,3 +103,42 @@ Security controls are not documented consistently, and no clear criteria have be
 - Corrective action records
 
 ---
+
+## Article 33 — Notification of a Personal Data Breach
+
+### Assessment
+
+The organization has a general process for reporting cybersecurity incidents to IT.
+
+However, no formal procedure exists to identify, assess and manage personal data breaches.
+
+The organization has not formally defined the responsibilities for assessing whether a personal data breach requires notification to the supervisory authority.
+
+No documented process exists for managing breach notifications and related deadlines.
+
+**Status:** Non-Compliant
+
+### Identified Gaps
+
+1. No formal procedure for identifying and assessing personal data breaches.
+2. Roles and responsibilities for breach assessment are not formally defined.
+3. No documented process for determining whether notification to the supervisory authority is required.
+4. No formal process for managing notification deadlines and documenting the related decisions.
+
+### Recommended Actions
+
+1. Establish a formal Personal Data Breach Management Procedure.
+2. Define roles and responsibilities for identifying, assessing and managing personal data breaches.
+3. Define a risk assessment process to determine whether notification to the supervisory authority is required.
+4. Establish a process for managing and documenting breach notifications and related decisions.
+5. Integrate the data breach process with the organization's Incident Response Procedure.
+
+### Evidence
+
+- Personal Data Breach Management Procedure
+- Data breach register
+- Breach assessment forms
+- Records of breach notifications and related decisions
+- Incident Response Procedure
+
+---
