@@ -218,3 +218,40 @@ Roles and responsibilities for processing DSARs are also not formally defined.
 - Identity verification records
 
 ---
+
+## Article 35 — Data Protection Impact Assessment
+
+### Assessment
+
+The organization performs general cybersecurity risk assessments, but does not have a formal process for assessing privacy risks associated with new or significantly changed processing activities.
+
+No formal procedure exists to determine when a Data Protection Impact Assessment (DPIA) is required.
+
+Roles and responsibilities for conducting and reviewing DPIAs are not formally defined.
+
+**Status:** Non-Compliant
+
+### Identified Gaps
+
+1. No formal procedure exists for determining when a DPIA is required.
+2. Privacy risks are not systematically assessed before introducing potentially high-risk processing activities.
+3. Roles and responsibilities for conducting and reviewing DPIAs are not formally defined.
+4. No formal process exists for documenting DPIA results and follow-up actions.
+
+### Recommended Actions
+
+1. Establish a formal DPIA procedure.
+2. Define criteria for identifying processing activities that may result in a high risk to the rights and freedoms of data subjects.
+3. Perform DPIAs before implementing relevant high-risk processing activities.
+4. Define roles and responsibilities for conducting, reviewing and approving DPIAs.
+5. Document identified risks, mitigation measures and the results of each DPIA.
+
+### Evidence
+
+- DPIA Procedure
+- Completed DPIA assessments
+- Privacy risk assessments
+- DPIA register
+- Records of mitigation actions
+
+---
