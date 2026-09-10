@@ -212,3 +212,44 @@ and maintenance, including vulnerability handling and disclosure.
 - Penetration testing reports.
 - Evidence of vulnerability remediation.
 - Records of critical vulnerability escalation.
+
+---
+
+## NIS2 Article 21(2)(g)
+
+### Requirement
+
+Basic computer hygiene practices and cybersecurity training.
+
+### Assessment
+
+**Status:** Non-Compliant
+
+### Evidence
+
+- General training is provided to new employees.
+- No periodic cybersecurity awareness program exists.
+- No phishing simulations are performed.
+- No specific cybersecurity training exists for personnel managing critical systems.
+- Training participation is not systematically recorded.
+
+### Identified Gaps
+
+1. No periodic phishing simulation program.
+2. No specific training for personnel managing critical systems.
+3. No systematic process for recording cybersecurity training participation.
+
+### Recommended Actions
+
+- Establish periodic cybersecurity awareness training.
+- Implement regular phishing simulation campaigns.
+- Provide role-specific cybersecurity training for personnel managing critical systems.
+- Maintain training attendance and completion records.
+- Track and review phishing simulation results.
+
+### Expected Evidence
+
+- Training attendance and completion records.
+- Cybersecurity awareness training materials.
+- Phishing simulation reports.
+- Records of role-specific cybersecurity training.
