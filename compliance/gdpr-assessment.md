@@ -31,3 +31,40 @@ However, no formal periodic procedure exists to review whether the personal data
 - Documentation of periodic data reviews
 
 ---
+
+
+## Article 30 — Records of Processing Activities
+
+### Assessment
+
+The organization processes several categories of personal data relating to customers, employees and other data subjects.
+
+A Records of Processing Activities (ROPA) exists, but it is not maintained in a fully structured and consistent manner.
+
+Some processing activities are not completely documented, and information such as processing purposes, categories of personal data and recipients is not always up to date.
+
+No formal periodic review process has been established to ensure that the ROPA remains accurate and complete.
+
+**Status:** Partially Compliant
+
+### Identified Gaps
+
+1. Some processing activities are not fully documented.
+2. Information concerning processing purposes and categories of personal data is not always complete or up to date.
+3. No formal periodic review process exists for the ROPA.
+
+### Recommended Actions
+
+1. Complete the ROPA by documenting all relevant processing activities.
+2. Clearly document the purposes, categories of personal data, data subjects and recipients for each processing activity.
+3. Establish a formal periodic review of the ROPA.
+4. Update the ROPA whenever significant changes are made to processing activities.
+
+### Evidence
+
+- Records of Processing Activities (ROPA)
+- ROPA review procedure
+- Records of periodic ROPA reviews
+- Privacy documentation related to processing activities
+
+---
