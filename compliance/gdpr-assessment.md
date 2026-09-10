@@ -179,3 +179,42 @@ Roles and responsibilities for preparing and sending breach communications are n
 - Records of breach communications and related decisions
 
 ---
+
+## Article 15 — Right of Access by the Data Subject
+
+### Assessment
+
+Data subjects may contact the organization to request access to their personal data.
+
+However, the organization does not have a formal procedure for managing Data Subject Access Requests (DSARs).
+
+Requests are handled on a case-by-case basis, without a structured system for recording, tracking and monitoring requests and deadlines.
+
+Roles and responsibilities for processing DSARs are also not formally defined.
+
+**Status:** Non-Compliant
+
+### Identified Gaps
+
+1. No formal procedure exists for managing Data Subject Access Requests.
+2. No structured system exists for recording and tracking DSARs.
+3. Roles and responsibilities for managing DSARs are not formally defined.
+4. No formal process exists for monitoring response deadlines.
+
+### Recommended Actions
+
+1. Establish a formal DSAR Management Procedure.
+2. Define roles and responsibilities for receiving, assessing and responding to DSARs.
+3. Implement a DSAR register to track requests, actions and deadlines.
+4. Establish a process for verifying the identity of the requesting data subject.
+5. Define a process for preparing, reviewing and approving responses.
+
+### Evidence
+
+- DSAR Management Procedure
+- DSAR register
+- DSAR response templates
+- Records of completed DSARs
+- Identity verification records
+
+---
