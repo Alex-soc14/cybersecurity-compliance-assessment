@@ -142,3 +142,40 @@ No documented process exists for managing breach notifications and related deadl
 - Incident Response Procedure
 
 ---
+
+## Article 34 — Communication of a Personal Data Breach to the Data Subject
+
+### Assessment
+
+The organization has a general incident management process, but no formal procedure exists for communicating personal data breaches to affected data subjects.
+
+The organization has not formally defined the criteria for determining when affected individuals must be informed.
+
+Roles and responsibilities for preparing and sending breach communications are not clearly defined.
+
+**Status:** Non-Compliant
+
+### Identified Gaps
+
+1. No formal procedure exists for communicating personal data breaches to affected data subjects.
+2. No documented criteria exist for determining when communication to data subjects is required.
+3. Roles and responsibilities for preparing and sending breach communications are not formally defined.
+4. No standard communication template exists for personal data breaches.
+
+### Recommended Actions
+
+1. Establish a formal Personal Data Breach Communication Procedure.
+2. Define criteria for assessing when affected data subjects must be informed.
+3. Define roles and responsibilities for preparing and approving breach communications.
+4. Create a standard communication template containing the information required by the GDPR.
+5. Integrate the process with the organization's Incident Response and Data Breach Management Procedures.
+
+### Evidence
+
+- Personal Data Breach Communication Procedure
+- Breach assessment records
+- Data breach register
+- Approved communication template
+- Records of breach communications and related decisions
+
+---
